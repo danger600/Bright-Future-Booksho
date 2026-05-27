@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future Bookshop REST API",
+  "description": "A RESTful API CRUD for managing books inventory with MySQL simulation and an interactive Postman-style REST client dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
